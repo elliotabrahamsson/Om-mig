@@ -8,6 +8,11 @@ p {
   }
 
 .milo {
-    position: static;
-    border: 3px solid #73Ad21;
+    float:right;
+    border: 3px solid #000000;
+}
+
+.stor hund{
+    float:right;
+    border:3px solid #000000
 }
